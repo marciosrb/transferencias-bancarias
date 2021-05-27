@@ -61,8 +61,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/leodev0/dio-transferencias-bancarias
-
+$ git clone https://github.com/marciosrb/transferencias-bancarias.git
 # Access
 $ cd dio-bank
 

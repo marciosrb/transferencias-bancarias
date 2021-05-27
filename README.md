@@ -6,7 +6,7 @@
   <a href="https://diobank.netlify.app">Demo</a>
 </div> -->
 
-<h1 align="center">DIO Transações Bancárias</h1>
+<h1 align="center">Transações Bancárias</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/leodev0/dio-transferencias-bancarias?color=green">
@@ -37,7 +37,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <!-- <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
-  <a href="https://github.com/leodev0" target="_blank">Author</a>
+  <a href="https://github.com/marciosrb" target="_blank">Author</a>
 </p>
 
 <br>
